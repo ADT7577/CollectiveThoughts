@@ -1,0 +1,2 @@
+# CollectiveThoughts
+Created with CodeSandbox
